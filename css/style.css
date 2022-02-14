@@ -69,7 +69,7 @@ h3 {
    color: hsla(240, 100%, 50%, 0.761);
    font-weight: 700;
    border-bottom: 4px dotted hsla(240, 100%, 50%, 0.761);
-   margin-left: 15px;
+   padding-left: 15px;
    margin-bottom: 15px;
 }
 
